@@ -65,10 +65,10 @@
 				5828E46428DAF84200AA0993 /* ScrumdingerApp.swift */,
 				5828E46628DAF84200AA0993 /* MettingView.swift */,
 				582B5C3728EC2B7F00302856 /* CardView.swift */,
-				5828E46828DAF84300AA0993 /* Assets.xcassets */,
-				5828E46A28DAF84300AA0993 /* Preview Content */,
 				582B5C3B28EC31E700302856 /* TrailingIconLabelStyle.swift */,
 				582B5C3D28EC361900302856 /* ScrumsView.swift */,
+				5828E46828DAF84300AA0993 /* Assets.xcassets */,
+				5828E46A28DAF84300AA0993 /* Preview Content */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
