@@ -24,6 +24,7 @@
 		582B5C4E28ED4C2B00302856 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582B5C4D28ED4C2B00302856 /* ScrumTimer.swift */; };
 		582B5C5028ED4D6700302856 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582B5C4F28ED4D6700302856 /* MeetingFooterView.swift */; };
 		582B5C5228ED508100302856 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582B5C5128ED508100302856 /* AVPlayer+Ding.swift */; };
+		582B5C5428EF0D1E00302856 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582B5C5328EF0D1E00302856 /* History.swift */; };
 		58C4672728DAFEBE0001A9AA /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C4672628DAFEBE0001A9AA /* Theme.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,7 @@
 		582B5C4D28ED4C2B00302856 /* ScrumTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		582B5C4F28ED4D6700302856 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		582B5C5128ED508100302856 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
+		582B5C5328EF0D1E00302856 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		58C4672628DAFEBE0001A9AA /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,6 +115,7 @@
 				582B5C4D28ED4C2B00302856 /* ScrumTimer.swift */,
 				582B5C3928EC2CEC00302856 /* DailyScrum.swift */,
 				58C4672628DAFEBE0001A9AA /* Theme.swift */,
+				582B5C5328EF0D1E00302856 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				582B5C5428EF0D1E00302856 /* History.swift in Sources */,
 				582B5C4628EC7D7800302856 /* ThemePicker.swift in Sources */,
 				582B5C4C28ED4ADB00302856 /* ScrumProgressViewStyle.swift in Sources */,
 				582B5C5028ED4D6700302856 /* MeetingFooterView.swift in Sources */,

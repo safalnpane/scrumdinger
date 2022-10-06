@@ -38,6 +38,8 @@ struct MettingView: View {
         }
         .onDisappear {
             scrumTimer.stopScrum()
+            let history = History(attendees: scrum.attendees, lengthInMinutes: scrum.timer.secondsElapsed / 60)
+            scrum.history.insert(history, at: 0)
         }
         .navigationBarTitleDisplayMode(.inline)
     }
